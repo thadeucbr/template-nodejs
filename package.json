@@ -1,0 +1,14 @@
+{
+  "name": "template-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thadeucbr/template-nodejs.git",
+  "author": "Thadeu Castelo Branco Ramos <thadeucbr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^8.0.1"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
